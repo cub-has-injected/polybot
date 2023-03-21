@@ -6,7 +6,7 @@
 [SonicD5](https://github.com/SonicD5)
 
 **Перезаливщик, так-как меня попросили**:
-[cub-has-injected](https://github.com/SonicD5)
+[cub-has-injected](https://github.com/cub-has-injected) - Я не разрабатываю бота, а лишь помогаю по репозиторию.
 
 ## Функции и Возможности:
 - `/ban (cogs/moderation/bans.py)` - Банит участника.
